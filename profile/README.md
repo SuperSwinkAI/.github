@@ -1,12 +1,16 @@
-## Hi there 👋
+![SuperSwink](../images/hero.png)
 
-<!--
+# SuperSwink
 
-**Here are some ideas to get you started:**
+Personal agent system - your AI-powered "mini-me" for task automation and intelligent assistance.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Overview
+
+SuperSwink is a single-user personal agent designed with complete privacy and user autonomy. All data is stored locally by default, with no telemetry or third-party data sharing.
+
+## Key Principles
+
+- **Single-user focus** - Designed exclusively as a personal agent system
+- **Privacy-first** - Complete user data ownership, local-first architecture
+- **Standards-based** - Leverages established protocols and SDKs over custom implementations
+- **Test-driven** - TDD mandate for all production code
