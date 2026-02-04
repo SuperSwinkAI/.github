@@ -1,3 +1,5 @@
+![SuperSwink](images/hero.png)
+
 # SuperSwink
 
 Personal agent system - your AI-powered "mini-me" for task automation and intelligent assistance.
