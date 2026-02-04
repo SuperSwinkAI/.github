@@ -1,4 +1,4 @@
-![SuperSwink](..images/hero.png)
+![SuperSwink](../images/hero.png)
 
 # SuperSwink
 
