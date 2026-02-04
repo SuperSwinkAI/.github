@@ -2,7 +2,7 @@
 
 Personal agent system - your AI-powered "mini-me" for task automation and intelligent assistance.
 
-![SuperSwink](../images/hero.png =250x)
+![SuperSwink](../images/hero.png){width=300}
 
 ## Overview
 
